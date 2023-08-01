@@ -1,7 +1,10 @@
 # DatabaseTermProject
 2023-1학기 하태현교수님 데이터베이스 프로젝트 - 항공권 가격 변동 추적 프로그램✈️
 
-![image](https://github.com/j2noo/DatabaseTermProject/assets/77064618/d770b83e-891e-4ee2-9b24-1369164e04b2)
+
+
+<img src ="https://github.com/j2noo/DatabaseTermProject/assets/77064618/d770b83e-891e-4ee2-9b24-1369164e04b2" width = 600px >
+
 
 
 ---
