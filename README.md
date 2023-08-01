@@ -1,10 +1,13 @@
 # DatabaseTermProject
-2023-2학기 하태현교수님 데이터베이스 프로젝트 - 항공권 가격 변동 추적✈️
+2023-1학기 하태현교수님 데이터베이스 프로젝트 - 항공권 가격 변동 추적 프로그램✈️
+
+![image](https://github.com/j2noo/DatabaseTermProject/assets/77064618/d770b83e-891e-4ee2-9b24-1369164e04b2)
+
 
 ---
 경고 무시하고 푸시하다 리드미 날려먹어서 간단하게 작성합니다..ㅠㅠ
 
-## 1. 서버 환경 및 구축
+## 1. 크롤링 서버 환경 및 구축
 ![image](https://github.com/j2noo/DatabaseTermProject/assets/77064618/581f47ee-88b5-4e0a-9d9a-b558c91914d6)
 
 AWS EC2에서 제공하는 프리티어 우분투 기본 사양입니다.
