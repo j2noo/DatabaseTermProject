@@ -79,7 +79,7 @@ async def parsing_async(airway_ID, date, crawledHtml_li):
             datas_li.append(
                 [
                     "Flight Ticket ID",  # idx 후처리
-                    "Searching Date",  # 조사날짜 후처리
+                    "Searching Date",  # 조사날짜 후처 리 
                     "Departure Date",
                     "Airway ID",
                     "Depature Time",
