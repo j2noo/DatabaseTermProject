@@ -16,7 +16,7 @@ departure_li = [
     "BKK - 방콕",
     "HKG - 홍콩",
     "DAD - 다낭",
-    "HAN - 하노이",
+    "HAN - 하노이", 
     "SGN - 싱가폴",
     "GMP - 김포",
 ]
